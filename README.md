@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janizar1
-- 👀 I’m interested in learning program languages for web and game development
-- 🌱 I’m currently learning Javascript and Python
+- 👀 I’m interested in learning and building full stack web applications businesses
+- 🌱 I’m currently learning Javascript, Node, React and MongoDB
 - 💞️ I’m looking to collaborate on game development. I have some great story ideas.
 - 📫 Best way to reach me is by email: jmosessr40@gmail.com
 
