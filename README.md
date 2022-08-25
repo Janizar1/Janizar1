@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Janizar1
 - 👀 I’m interested in learning and building full stack web applications businesses
-- 🌱 I’m currently learning Javascript, Node, React and MongoDB
-- 💞️ I’m looking to collaborate on game development. I have some great story ideas.
+- 🌱 I’m currently working on projects with program languages HTML, CSS, Javascript, Node, React and MongoDB
+- 💞️ I’m looking to collaborate on web development, and building full stack apps. 
 - 📫 Best way to reach me is by email: jmosessr40@gmail.com
 
 <!---
